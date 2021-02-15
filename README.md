@@ -5,3 +5,4 @@ Re-implementations of various problems and ML algorithms from a corpus of extern
     - Predicting customer churn within the Telecom industry using KNN, Decision Trees, Random Forests, Naive Bayes, and SVMs and comparing relative performance.
 
   
+*Disclaimer: None of the content reproduced here is created from scratch. All credits go to original authors of the source material.
