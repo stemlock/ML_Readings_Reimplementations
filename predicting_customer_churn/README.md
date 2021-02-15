@@ -1,4 +1,5 @@
 # "Predicting customer churn with scikit-learn" by Eric Chiang
+Predicting customer churn within the Telecom industry using KNN, Decision Trees, Random Forests, Naive Bayes, and SVMs and comparing relative performance.
 
 ### Libraries:
   - sklearn
