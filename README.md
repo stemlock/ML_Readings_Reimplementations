@@ -3,6 +3,8 @@ Re-implementations of various problems and ML algorithms from a corpus of extern
 
 - ["Predicting customer churn with scikit-learn" by Eric Chiang](predicting_customer_churn/)
     - Predicting customer churn within the Telecom industry using KNN, Decision Trees, Random Forests, Naive Bayes, and SVMs and comparing relative performance.
+- ["How to Write a Spelling Corrector" by Peter Norvig](naive_spelling_corrector/)
+    - Implementation of a spelling corrector based on edit distance using Naive Bayes.
 
   
-**\*Disclaimer: None of the content reproduced here was created from scratch. All credits go to original authors of the source material.**
+*\*Disclaimer: None of the content reproduced here can be claimed as my own propietary work. All credits go to original authors of the source material.*
