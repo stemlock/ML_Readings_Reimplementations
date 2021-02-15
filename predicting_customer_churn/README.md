@@ -1,4 +1,4 @@
-### "Predicting customer churn with scikit-learn" by Eric Chiang
+# "Predicting customer churn with scikit-learn" by Eric Chiang
 
 Libraries:
   - sklearn
