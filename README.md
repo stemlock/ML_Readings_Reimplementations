@@ -5,7 +5,7 @@ Re-implementations of various problems and ML algorithms from a corpus of extern
     - Predicting customer churn within the Telecom industry using KNN, Decision Trees, Random Forests, Naive Bayes, and SVMs and comparing relative performance.
 - ["How to Write a Spelling Corrector" by Peter Norvig](naive_spelling_corrector/)
     - Implementation of a spelling corrector based on edit distance using Naive Bayes.
-- ["Classifier Comparison" by scikit-learn](sklearn_classifier_comparison)
+- ["Classifier Comparison" by scikit-learn](sklearn_classifier_comparison/)
     - A comparison of various classifiers and there decision boundaries based on synthetic data.
 	
   
